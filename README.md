@@ -1,5 +1,6 @@
 # Unsupervised-Learning
-Unsupervised Learning Spring 2022 UT MSBA
+Unsupervised Learning Spring 2022 UT MSBA (STA280)
+
 Topics: 
 - Principal Component Analysis
 - Cluster Analysis
